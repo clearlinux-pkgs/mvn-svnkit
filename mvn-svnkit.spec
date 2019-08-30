@@ -4,7 +4,7 @@
 #
 Name     : mvn-svnkit
 Version  : 1.8.5
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/tmatesoft/svnkit/svnkit/1.8.5/svnkit-1.8.5.jar
 Source0  : https://repo1.maven.org/maven2/org/tmatesoft/svnkit/svnkit/1.8.5/svnkit-1.8.5.jar
 Source1  : https://repo1.maven.org/maven2/org/tmatesoft/svnkit/svnkit/1.8.5/svnkit-1.8.5.pom
